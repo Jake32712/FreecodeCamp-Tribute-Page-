@@ -1,0 +1,66 @@
+#main{
+  background-color: #78866b;
+  
+}
+#title{
+  font-family: "Times New Roman", Times, serif;
+  color: #604439;
+  text-align: center;
+  font-size:13vw;
+  
+ }
+#img-div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+  
+}
+
+figcaption{
+  color: #604439;
+  text-align: center;
+  
+  
+}
+h1{
+  text-align: center;
+  font-size: 25px;
+}
+
+body{
+  position: relative;
+}
+html {
+    font-family: var(--cp-font-family);
+    line-height: 1.5;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+img {
+    max-width: 60%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    text-align: left;
+    color: #333;
+  {
+  #quote{
+  color: black;
+  font-size: 18px;
+  text-align: center
+ }
